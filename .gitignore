@@ -1,0 +1,9 @@
+*.o
+*.d
+*.asm
+*.sym
+kernel/kernel
+fs.img
+*.log
+__pycache__/
+.DS_Store
